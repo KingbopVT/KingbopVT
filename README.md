@@ -23,7 +23,16 @@
 - SQL
 - Power BI
 - Data Visualization
+## 🤖 AI-Assisted Workflow
 
+AI tools were utilized to enhance efficiency throughout the project:
+
+- Assisted in exploratory data analysis (EDA) and feature understanding
+- Suggested data preprocessing techniques and model improvements
+- Supported code structuring and debugging
+- Enhanced data storytelling and visualization ideas
+
+All outputs were critically reviewed and validated to ensure correctness and business applicability.
 ---
 
 ## 📫 Contact
