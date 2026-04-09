@@ -15,9 +15,8 @@
 ## 🔥 Featured Projects
 - 📊 AI Job Market Analysis  
   👉 https://github.com/KingbopVT/ai-job-market-analysis  
-
----
-
+- 📊Churn rate bank Customer.
+  👉https://github.com/KingbopVT/bank-customer-churn-analysis/blob/main/Churn_rate.pptx
 ## 🛠 Skills
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
