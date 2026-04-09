@@ -6,14 +6,23 @@
 ---
 
 ## 🚀 About Me
-- Passionate about data analysis
-- Strong in Python, SQL, Power BI
-- Interested in business insights
+- Passionate about data analysis and business insights
+- Experience with Python (Pandas, NumPy), SQL, Power BI
+- Interested in Data Analytics & Machine Learning
 
 ---
 
-## 🔥 Projects
-- AI Job Market Analysis: https://github.com/KingbopVT/ai-job-market-analysis
+## 🔥 Featured Projects
+- 📊 AI Job Market Analysis  
+  👉 https://github.com/KingbopVT/ai-job-market-analysis  
+
+---
+
+## 🛠 Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI
+- Data Visualization
 
 ---
 
