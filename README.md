@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vu Tri An 👋
 
-<!--
-**KingbopVT/KingbopVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Python | SQL | Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about data analysis
+- Strong in Python, SQL, Power BI
+- Interested in business insights
+
+---
+
+## 🔥 Projects
+- AI Job Market Analysis: https://github.com/KingbopVT/ai-job-market-analysis
+
+---
+
+## 📫 Contact
+- Email: vutrian0303@gmail.com
