@@ -28,6 +28,7 @@
 - 📊Churn rate bank Customer.
   👉https://github.com/KingbopVT/bank-customer-churn-analysis/blob/main/Churn_rate.pptx
 All outputs were critically reviewed and validated to ensure correctness and business applicability.
+
   📊 Greedly Pridiction price car
   👉 https://github.com/KingbopVT/Car_pridiction
 ---
