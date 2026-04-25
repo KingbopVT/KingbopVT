@@ -44,5 +44,6 @@ AI tools were utilized to enhance efficiency throughout the project:
 - Supported code structuring and debugging
 - Enhanced data storytelling and visualization ideas
 
+ 👉 https://github.com/KingbopVT/Car_pridiction
 ## 📫 Contact
 - Email: vutrian0303@gmail.com
